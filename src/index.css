@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #e7f6ff;
+}
+a.active {
+  color: #eec759;
+}
+
+select,
+textarea,
+input:focus {
+  outline: 0;
+}
+
+.navbar {
+  transition: all 0.5s;
+}
+.Nav-hidden {
+  transform: translateY(-1000px);
+}
