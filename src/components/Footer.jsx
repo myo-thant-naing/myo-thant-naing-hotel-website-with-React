@@ -15,7 +15,7 @@ export default function Footer() {
             >
               <div className="flex justify-center text-white space-x-5">
                 <img
-                  src="src/assets/images/marker.png"
+                  src="/assets/images/marker.png"
                   alt=""
                   className="w-6 h-6 mt-1"
                 />
@@ -26,7 +26,7 @@ export default function Footer() {
             </Link>
             <div className="flex justify-center text-white space-x-5">
               <img
-                src="src/assets/images/apple-phone.png"
+                src="/assets/images/apple-phone.png"
                 alt=""
                 className="w-6 h-6 mt-1"
               />
@@ -39,17 +39,17 @@ export default function Footer() {
             <h2 className="text-secondary text-xl ">Contact</h2>
             <div className="flex justify-center space-x-5">
               <img
-                src="src/assets/images/facebook-new.png"
+                src="/assets/images/facebook-new.png"
                 alt=""
                 className="w-6 h-6 mt-1"
               />
               <img
-                src="src/assets/images/viber--v1.png"
+                src="/assets/images/viber--v1.png"
                 alt=""
                 className="w-6 h-6 mt-1"
               />
               <img
-                src="src/assets/images/telegram.png"
+                src="/assets/images/telegram.png"
                 alt=""
                 className="w-6 h-6 mt-1"
               />

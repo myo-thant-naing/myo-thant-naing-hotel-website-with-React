@@ -1,9 +1,9 @@
 import React from "react";
-import logo from "../assets/images/logo.png";
 import { Link, NavLink } from "react-router-dom";
 import { useState } from "react";
 
 export default function Navbar() {
+  const logo = "/assets/images/logo.png";
   const [isOpen, setIsOpen] = useState(false);
 
   let nav = document.querySelector(".navbar");
@@ -88,7 +88,7 @@ export default function Navbar() {
           <Link to={"/booking"} className="hidden lg:block">
             <div className="flex justify-center gap-2 items-center">
               <img
-                src="src/assets/images/icons8-booking-64.png"
+                src="/assets/images/icons8-booking-64.png"
                 alt=""
                 className="w-8"
               />

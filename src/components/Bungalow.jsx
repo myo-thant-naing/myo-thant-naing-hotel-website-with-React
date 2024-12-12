@@ -9,11 +9,7 @@ export default function Bungalow() {
           Rooms at the bungalows with views of the river or landscaped gardens
         </p>
       </div>
-      <img
-        src="src/assets/images/bungalow.jpg"
-        alt=""
-        className="w-full h-4/5"
-      />
+      <img src="/assets/images/bungalow.jpg" alt="" className="w-full h-4/5" />
     </div>
   );
 }

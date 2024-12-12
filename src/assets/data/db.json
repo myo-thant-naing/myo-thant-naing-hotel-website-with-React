@@ -5,67 +5,67 @@
             "title": "SAKURA INN",
             "description": "Quiet, comfortable rooms set among towering trees and rolling lawns Comfortable and convenient rooms are pleasantly restful places to relax and unwind in after a day's sightseeing.",
             "price": "85000",
-            "img1": "src/assets/images/sr2.jpg",
-            "img2": "src/assets/images/sr3.jpg",
-            "img3": "src/assets/images/sr1.jpg",
-            "img4": "src/assets/images/sr5.jpg"
+            "img1": "/assets/images/sr2.jpg",
+            "img2": "/assets/images/sr3.jpg",
+            "img3": "/assets/images/sr1.jpg",
+            "img4": "/assets/images/sr5.jpg"
         },
         {
             "id": 2,
             "title": "DELUXE CLASSIC ROOMS",
             "description": "Quiet, comfortable rooms set among towering trees and rolling lawns Comfortable and convenient rooms are pleasantly restful places to relax and unwind in after a day's sightseeing.",
             "price": "120000",
-            "img1": "src/assets/images/r2sr1.jpg",
-            "img2": "src/assets/images/r2sr2.jpg",
-            "img3": "src/assets/images/r2sr3.jpg",
-            "img4": "src/assets/images/r2sr4.jpg"
+            "img1": "/assets/images/r2sr1.jpg",
+            "img2": "/assets/images/r2sr2.jpg",
+            "img3": "/assets/images/r2sr3.jpg",
+            "img4": "/assets/images/r2sr4.jpg"
         },
         {
             "id": 3,
             "title": "DELUXE GARDEN VIEW ROOMS",
             "description": "Deluxe Garden View Rooms look out to the landscaped gardens. Each has a spacious verandah and a bath tub (or) shower installed in the bathroom.",
             "price": "130000",
-            "img1": "src/assets/images/r3sr1.jpg",
-            "img2": "src/assets/images/r3sr2.jpg",
-            "img3": "src/assets/images/r3sr3.jpg",
-            "img4": "src/assets/images/r3sr4.jpg"
+            "img1": "/assets/images/r3sr1.jpg",
+            "img2": "/assets/images/r3sr2.jpg",
+            "img3": "/assets/images/r3sr3.jpg",
+            "img4": "/assets/images/r3sr4.jpg"
         },
         {
             "id": 4,
             "title": "DELUXE RIVER VIEW ROOMS",
             "description": "Deluxe River View Rooms boast of huge picture windows, which look out to the Irrawaddy River. Each has a private verandah where lounging chairs are placed for relaxation. Bathrooms are provided with bath tubs.",
             "price": "150000",
-            "img1": "src/assets/images/r4sr1.jpg",
-            "img2": "src/assets/images/r4sr2.jpg",
-            "img3": "src/assets/images/r4sr3.jpg",
-            "img4": "src/assets/images/r4sr4.jpg"
+            "img1": "/assets/images/r4sr1.jpg",
+            "img2": "/assets/images/r4sr2.jpg",
+            "img3": "/assets/images/r4sr3.jpg",
+            "img4": "/assets/images/r4sr4.jpg"
         }
     ],
     "facilities": [
         {
             "id": 1,
             "title": "Smart TV",
-            "img": "src/assets/images/external-smart-tv-internet-of-things-inkubators-detailed-outline-inkubators.png"
+            "img": "/assets/images/external-smart-tv-internet-of-things-inkubators-detailed-outline-inkubators.png"
         },
         {
             "id": 2,
             "title": "High Wifi",
-            "img": "src/assets/images/wifi--v1.png"
+            "img": "/assets/images/wifi--v1.png"
         },
         {
             "id": 3,
             "title": "AC",
-            "img": "src/assets/images/air-conditioner--v4.png"
+            "img": "/assets/images/air-conditioner--v4.png"
         },
         {
             "id": 4,
             "title": "Safety Box",
-            "img": "src/assets/images/external-safety-finance-bartama-outline-32-bartama-graphic.png"
+            "img": "/assets/images/external-safety-finance-bartama-outline-32-bartama-graphic.png"
         },
         {
             "id": 5,
             "title": "Mini Fridge",
-            "img": "src/assets/images/fridge.png"
+            "img": "/assets/images/fridge.png"
         }
     ],
     "customers": [
@@ -73,49 +73,49 @@
             "id": 1,
             "name": "John",
             "review": " This hotel was recommended to me by my travel advisor and it was a good recommendation. The hotel gives the feeling of quiet confidence in the facilities on offer. The rooms are large, with a large bed, and bathroom facilities are good with a lovely shower.",
-            "img": "src/assets/images/qman5-1-80x80.jpg",
+            "img": "/assets/images/qman5-1-80x80.jpg",
             "stars": 3
         },
         {
             "id": 2,
             "name": "Mical",
             "review": "Attractive hotel with wonderful, secluded pool surrounded by flowers. A very welcome relief from the heat. Room was large with good bathroom but why only fabric panelled door between the two?! You don't expect to have so little sound proofing in an upmarket hotel!",
-            "img": "src/assets/images/manfromguernsey-80x80.jpg",
+            "img": "/assets/images/manfromguernsey-80x80.jpg",
             "stars": 4
         },
         {
             "id": 3,
             "name": "Rose",
             "review": "first time in bagan and this hotel is in good location, just off the main road with a pleasant, quiet atmosphere - breakfast a little underwhelming but rooms are just what we needed after a full day of sightseeing, close to restaurants to walk to for dinner",
-            "img": "src/assets/images/londonrfitz-80x80.jpg",
+            "img": "/assets/images/londonrfitz-80x80.jpg",
             "stars": 5
         }
     ],
     "imageGroups": [
         [
-            "src/assets/images/g1.jpg",
-            "src/assets/images/g2.jpg",
-            "src/assets/images/g3.jpg",
-            "src/assets/images/g4.jpg"
+            "/assets/images/g1.jpg",
+            "/assets/images/g2.jpg",
+            "/assets/images/g3.jpg",
+            "/assets/images/g4.jpg"
         ],
         [
-            "src/assets/images/g5.jpg",
-            "src/assets/images/g6.jpg",
-            "src/assets/images/g7.jpg",
-            "src/assets/images/g8.jpg"
+            "/assets/images/g5.jpg",
+            "/assets/images/g6.jpg",
+            "/assets/images/g7.jpg",
+            "/assets/images/g8.jpg"
         ],
         [
-            "src/assets/images/g9.jpg",
-            "src/assets/images/g10.jpg",
-            "src/assets/images/g11.jpg",
-            "src/assets/images/g12.jpg"
+            "/assets/images/g9.jpg",
+            "/assets/images/g10.jpg",
+            "/assets/images/g11.jpg",
+            "/assets/images/g12.jpg"
         ]
     ],
     "spa": [
-        "src/assets/images/spa1.jpg",
-        "src/assets/images/spa2.jpg",
-        "src/assets/images/spa3.jpg",
-        "src/assets/images/spa4.jpg"
+        "/assets/images/spa1.jpg",
+        "/assets/images/spa2.jpg",
+        "/assets/images/spa3.jpg",
+        "/assets/images/spa4.jpg"
     ],
     "contactDetails": [
         {
@@ -136,10 +136,10 @@
         }
     ],
     "payments": [
-        "src/assets/images/kpay.png",
-        "src/assets/images/wavePay.jpg",
-        "src/assets/images/AYApay.png",
-        "src/assets/images/CBbank.png",
-        "src/assets/images/Aplus.png"
+        "/assets/images/kpay.png",
+        "/assets/images/wavePay.jpg",
+        "/assets/images/AYApay.png",
+        "/assets/images/CBbank.png",
+        "/assets/images/Aplus.png"
     ]
 }

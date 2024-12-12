@@ -6,7 +6,7 @@ export default function Room() {
   return (
     <div className="space-y-20">
       <Banner
-        src="src/assets/images/room-banner.jpg"
+        src="/assets/images/room-banner.jpg"
         alt="Room Banner"
         height="h-72"
         title="Our Rooms"

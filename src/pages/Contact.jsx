@@ -6,7 +6,7 @@ export default function Contact() {
     <div>
       {/* Banner */}
       <Banner
-        src="src/assets/images/general-banner.jpg"
+        src="/assets/images/general-banner.jpg"
         alt="Contact banner"
         height="h-72"
         title="Our Contact"

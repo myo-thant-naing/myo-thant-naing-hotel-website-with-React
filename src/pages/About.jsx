@@ -8,7 +8,7 @@ export default function About() {
   return (
     <div className="space-y-20">
       <Banner
-        src="src/assets/images/general-banner.jpg"
+        src="/assets/images/general-banner.jpg"
         alt="Dining Banner"
         height="h-72"
         title="About Thiripyitsaya"

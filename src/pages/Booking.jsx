@@ -29,7 +29,7 @@ export default function Booking() {
     <div className="space-y-10">
       {/* Banner */}
       <Banner
-        src="src/assets/images/room-banner.jpg"
+        src="/assets/images/room-banner.jpg"
         alt="Room Banner"
         height="h-72"
       />

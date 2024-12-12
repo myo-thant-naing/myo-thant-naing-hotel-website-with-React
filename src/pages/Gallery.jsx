@@ -8,7 +8,7 @@ export default function Gallery() {
     <div className="space-y-20">
       {/* Reusable Banner */}
       <Banner
-        src="src/assets/images/dining-banner.jpg"
+        src="/assets/images/dining-banner.jpg"
         alt="Dining Banner"
         height="h-72"
         title="Explore Our Gallery"

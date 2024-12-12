@@ -6,7 +6,7 @@ export default function BookingForm({ form, handleSubmit, handleInputChange }) {
       {/* Booking Section */}
       <div className="flex justify-center items-center gap-3">
         <img
-          src="src/assets/images/icons8-booking-64.png"
+          src="/assets/images/icons8-booking-64.png"
           alt="Booking Icon"
           className="w-12"
         />

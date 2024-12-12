@@ -30,7 +30,7 @@ export default function CustomerReview() {
             <h2 className="text-center font-bold text-xl">{customer.name}</h2>
             <StarRating
               count={customer.stars}
-              src="src/assets/images/star--v1.png"
+              src="/assets/images/star--v1.png"
             />
             <p className="">{customer.review}</p>
           </div>
